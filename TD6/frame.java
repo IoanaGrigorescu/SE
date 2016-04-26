@@ -1,3 +1,18 @@
+/**
+ * Frame.java
+ *
+ * A class which represents a physical page frame.
+ *
+ * @author Gagne, Galvin, Silberschatz
+ * Operating System Concepts with Java - Eighth Edition
+ * Copyright John Wiley & Sons - 2010.
+ *
+ * adapted by myf1: at construction every frame is filled 
+ *                  with values [0..PAGE_SIZE-1] 
+ */
+//package opsys1.vmm;
+
+
 public class Frame 
 {
 	public  static final int PAGE_SIZE = 256;
