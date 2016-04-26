@@ -1,29 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @IoanaGrigorescu
-
-1
-0
-
-    3
-
-TudorUrsachi9505/SE
-Code
-Issues 0
-Pull requests 0
-Wiki
-Pulse
-Graphs
-SE/TD6/InputFile.txt
-b765b31 15 days ago
-@TudorUrsachi9505 TudorUrsachi9505 Create InputFile.txt
-1001 lines (1000 sloc) 5.69 KB
 16916
 62493
 30198
